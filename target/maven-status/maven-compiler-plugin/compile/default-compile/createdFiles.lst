@@ -1,0 +1,5 @@
+Program.class
+models\relationnal\ArticleWeb.class
+models\relationnal\Auteur.class
+models\relationnal\Livre.class
+models\relationnal\Publication.class
